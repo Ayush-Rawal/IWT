@@ -1,0 +1,43 @@
+.container {
+    border-style: dashed;
+    width: 400px;
+    border-width: 0.15rem;
+}
+
+.mini-container1 {
+    border-bottom-style: dashed;
+    padding: 10px 255px 8px 30px;
+    border-width: 0.15rem;
+}
+
+.mini-container2 {
+    padding: 6px 30px;
+    border-top-style: dashed;
+    border-width: 0.15rem;
+}
+
+.psuedo1 {
+    border-style: solid;
+    border-color: red;
+}
+
+.psuedo2 {
+    border-style: dashed;
+    border-color: blue
+}
+
+#p1 {
+    color: blue;
+    border-style: solid;
+    border-color: black;
+    border-width: 0.005rem;
+    padding: 0;
+}
+
+#p2 {
+    color: gold;
+    margin-left: 70px;
+    border-style: solid;
+    border-color: black;
+    border-width: 0.005rem
+}

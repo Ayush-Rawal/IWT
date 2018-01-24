@@ -1,0 +1,21 @@
+.container {
+    width: 300px;
+    height: 2rem;
+    padding: 10px;
+}
+
+.text {
+    color: plum;
+    margin: 10px;
+    width: 200px;
+    text-align: center;
+    font-style: italic;
+}
+
+.border-container {
+    width: 100px;
+    justify-content: center;
+    align-items: center;
+    padding: 1px;
+    float: right;
+}
